@@ -25,8 +25,6 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
-#Antonio Pintado u172771 and Amanda Pintado u137702
-
 import mdp, util
 
 from learningAgents import ValueEstimationAgent
