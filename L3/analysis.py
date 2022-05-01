@@ -21,7 +21,6 @@
 
 # To solve this exercise we only have to modify one value, which is the answerNoise, this is how often an agent ends
 # up in an unintended successor state, so if we change that to 0, the agent would cross the bridge with no doubt
-#Antonio Pintado u172771 and Amanda Pintado u137702
 
 def question2():
     answerDiscount = 0.9
